@@ -8,4 +8,6 @@ wrote a list of which essays he had authored only days before being killed in a 
 Vice President Aaron Burr. Madison wrote his own list many years later, which is in conflict with
 Hamilton’s list on 12 of the essays. Since by this point the two (who were once close friends) had
 become bitter rivals, historians have long been unsure as to the reliability of both lists.
+
+
 This code is using Naive Bayes to classify who wrote the target 12 paragraph.

@@ -1,4 +1,9 @@
 # Fedpapers-prediction
+Important!!!!
+This is one of the homework from Gerogia tech ECE 6254 Spring.
+The large part of the code is written by Professor Bloch.
+
+Description:
 Who wrote the Federalist Papers?
 The Federalist Papers were a series of essays written in 1787–1788 meant to persuade the citizens
 of the State of New York to ratify the Constitution and which were published anonymously under
